@@ -1,4 +1,4 @@
 # bankingcloudstuff
-bankingcloud4me
+Code repo for bankingwiththecloud.
 
-http://www.bankingwiththecloud.com/keystuff
+Here at banking with the cloud, we believe in DevOps, communicating with our customers, and sharing code. We use this site for a variety of code sharing.
