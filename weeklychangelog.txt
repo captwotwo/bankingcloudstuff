@@ -1,0 +1,16 @@
+10.3.2019
+Some miscellaneous notes.
+
+10.12.2019
+Removed s3 public permissions.
+
+10.13.2019
+Added storage to s3, backupkey at http://bankingwiththecloud.com/thisisthebackupkey.txt
+
+10.21.2019
+Backed up webserver to amazon backup storage.
+
+10.31.2019
+Updated web code
+
+11.1.2019 removed old userr
